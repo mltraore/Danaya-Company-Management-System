@@ -3,5 +3,5 @@
 Gui example | Registration Page |
 <br/>
 <br/>
-![registration page](images/registration.jpeg)
+![registration](images/registration.jpeg)
   
