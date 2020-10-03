@@ -3,4 +3,5 @@
 Gui example | Registration Page |
 <br/>
 <br/>
-![gui](images/registration.jpeg)
+
+<img src="/images/registration.jpeg" alt="" title="" />
